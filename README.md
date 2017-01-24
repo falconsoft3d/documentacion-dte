@@ -51,7 +51,7 @@ __909__ Facturas Venta Módulo ZF</p>
 __910__ Solicitud Traslado Zona Franca (Z)</p>
 __911__ Declaración de Ingreso a Zona Franca Primaria</p>
 
-
+# ESTRUCTURA DEL DTE
 ![Alt text](https://github.com/odoochile/documentacion-dte/blob/master/img/dte.jpg?raw=true "Optional Title")
 
 
