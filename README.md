@@ -5,26 +5,26 @@ http://www.sii.cl/factura_electronica/factura_mercado/instructivo.htm
 
 
 # CÓDIGOS DE DOCUMENTOS DE COMPRAS
-29 Factura de Inicio </p>
-30 Factura </p>
-32 Factura de ventas y servicios no afectos o exentos de IVA</p>
-33 Factura Electrónica</p>
-34 Factura no Afecta o Exenta Electrónica</p>
-40 Liquidación Factura</p>
-43 Liquidación Factura Electrónica</p>
-45 Factura de Compra</p>
-46 Factura de Compra electrónica</p>
-55 Nota de Débito</p>
-56 Nota de Débito Electrónica</p>
-60 Nota de Crédito</p>
-61 Nota de Crédito Electrónica</p>
-108 SRF Solicitud de Registro de Factura</p>
-901 Factura de ventas a empresas del territorio preferencial (Res. Ex. N° 1057, del 25.04.85)</p>
-914 Declaración de Ingreso (DIN)</p>
-911 Declaración de Ingreso a Zona Franca Primaria</p>
+__29__ Factura de Inicio </p>
+__30__ Factura </p>
+__32__ Factura de ventas y servicios no afectos o exentos de IVA</p>
+__33__ Factura Electrónica</p>
+__34__ Factura no Afecta o Exenta Electrónica</p>
+__40__ Liquidación Factura</p>
+__43__ Liquidación Factura Electrónica</p>
+__45__ Factura de Compra</p>
+__46__ Factura de Compra electrónica</p>
+__55__ Nota de Débito</p>
+__56__ Nota de Débito Electrónica</p>
+__60__ Nota de Crédito</p>
+__61__ Nota de Crédito Electrónica</p>
+__108__ SRF Solicitud de Registro de Factura</p>
+__901__ Factura de ventas a empresas del territorio preferencial (Res. Ex. N° 1057, del 25.04.85)</p>
+__914__ Declaración de Ingreso (DIN)</p>
+__911__ Declaración de Ingreso a Zona Franca Primaria</p>
 
 # CÓDIGOS DE DOCUMENTOS DE COMPRAS ZONA FRANCA
-904 Factura de Traspaso</p>
-909 Facturas Venta Módulo ZF</p>
-910 Solicitud Traslado Zona Franca (Z)</p>
-911 Declaración de Ingreso a Zona Franca Primaria</p>
+__904__ Factura de Traspaso</p>
+__909__ Facturas Venta Módulo ZF</p>
+__910__ Solicitud Traslado Zona Franca (Z)</p>
+__911__ Declaración de Ingreso a Zona Franca Primaria</p>
