@@ -5,8 +5,8 @@ http://www.sii.cl/factura_electronica/factura_mercado/instructivo.htm
 
 
 # CÓDIGOS DE DOCUMENTOS DE COMPRAS
--29 Factura de Inicio
--30 Factura
+29 Factura de Inicio </p>
+30 Factura </p>
 32 Factura de ventas y servicios no afectos o exentos de IVA
 33 Factura Electrónica
 34 Factura no Afecta o Exenta Electrónica
